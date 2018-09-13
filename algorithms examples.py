@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 21 10:39:06 2018
-
-@author: Qin Yu
 """
 
 from sklearn.model_selection import cross_val_score
